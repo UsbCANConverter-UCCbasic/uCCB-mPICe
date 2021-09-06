@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DC_connector
+D Generic connector, double row, 02x10
+K connector
+F ~
+$ENDCMP
+#
+$CMP IDC_10
+D Generic connector, double row, 02x10
+K connector
+F ~
+$ENDCMP
+#
+#End Doc Library

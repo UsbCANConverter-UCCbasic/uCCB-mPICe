@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mPCIE_to_CAN-rescue)(type Legacy)(uri ${KIPRJMOD}/mPCIE_to_CAN-rescue.lib)(options "")(descr ""))
+)
